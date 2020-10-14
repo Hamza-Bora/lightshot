@@ -2,7 +2,8 @@
 Random images from https://prnt.sc/ 
 
 requirements : firefox
-  sudo apt install firefox
+
+>sudo apt install firefox
 
 > cd lightshot
 
