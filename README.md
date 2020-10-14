@@ -5,5 +5,7 @@ requirements : firefox
   sudo apt install firefox
 
 > cd lightshot
+
 > chmod +x lighshot
+
 > ./lightshot
