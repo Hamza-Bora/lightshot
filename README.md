@@ -7,6 +7,6 @@ requirements : firefox
 
 > cd lightshot
 
-> chmod +x lighshot
+> chmod +x lighshot.py  
 
-> ./lightshot
+> ./lightshot.py
